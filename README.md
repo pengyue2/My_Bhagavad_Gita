@@ -25,16 +25,9 @@ https://archive.org/about/faqs.php#Rights
 
 #### Text
 
-o Clean up the text into individual verses, saving them in the respective fullGita.js dictionary
-<ul>
-  Chapters remaining:
-  <li>Chapter 11</li>
-  <li>Chapter 12</li>
-  <li>Chapter 13</li>
-  <li>Chapter 14</li>
-  <li>Chapter 15</li>
-  <li>Chapter 18</li>
-</ul>
+√ Clean up the text into individual verses, saving them in the respective fullGita.js dictionary
+
+o Finish any leftover TODOs for the text (ie trimming any lengthy translations)
 
 #### Audio
 
@@ -42,9 +35,6 @@ o Cut the audio files into individual verses, Sanskrit plus English translations
 
 <ul>
   Chapters remaining:
-  <li>Chapter 1</li>
-  <li>Chapter 2</li>
-  <li>Chapter 3</li>
   <li>Chapter 4</li>
   <li>Chapter 5</li>
   <li>Chapter 6</li>
@@ -57,18 +47,13 @@ o Cut the audio files into individual verses, Sanskrit plus English translations
   <li>Chapter 13</li>
   <li>Chapter 14</li>
   <li>Chapter 15</li>
-  <li>Chapter 16</li>
   <li>Chapter 17</li>
-  <li>Chapter 18</li>
 </ul>
 
 o Cut the audio files into individual verses, Sanskrit only
 
 <ul>
   Chapters remaining:
-  <li>Chapter 1</li>
-  <li>Chapter 2</li>
-  <li>Chapter 3</li>
   <li>Chapter 4</li>
   <li>Chapter 5</li>
   <li>Chapter 6</li>
@@ -81,9 +66,7 @@ o Cut the audio files into individual verses, Sanskrit only
   <li>Chapter 13</li>
   <li>Chapter 14</li>
   <li>Chapter 15</li>
-  <li>Chapter 16</li>
   <li>Chapter 17</li>
-  <li>Chapter 18</li>
 </ul>
 
 #### Post-processing
